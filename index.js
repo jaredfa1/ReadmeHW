@@ -67,7 +67,7 @@ return inquirer.prompt([
 ]);
 }
 
-// function to write README file
+// function to write README file and read me layout
 function generateMarkdown(response){
     return `
     ${response.title}
