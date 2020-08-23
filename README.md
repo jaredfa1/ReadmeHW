@@ -1,5 +1,5 @@
 
-    Read Me
+    READ ME Project
 
     Table of Contents
 
@@ -11,17 +11,19 @@
     [Questions](#questions)
 
     DESCRIPTION:
-    creates a read me for a application
+    This project was created with the intent to allow developers to use a simple program to create a readmefor their applications
     INSTALLATION:
-    Clone off of git hub and install
+    Go to my git hub repository and clone the code from there and install it to your system
     USAGE:
-    to create a readme for an application
+    This Generator asks simple questions to get all the critical information about your project and assigns it in a orderly README file
     CONTRIBUTING:
-    node.js
+    Node.js Visual Studio code, JQuery
     TEST:
-    test
+    Tested using a debugger and trial and error.
     LICENSE: 
-    The license being used is MIT
+    The license being used is 
+
+    link to demo: https://kapwi.ng/c/3wpBpbDO
     
 
 
